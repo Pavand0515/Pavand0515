@@ -72,15 +72,19 @@ A collection of practical ML experiments covering regression and data-driven wor
 
 ---
 
-## 📈 GitHub
+## 📊 GitHub Stats
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Pavand0515&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pavand0515&layout=compact&hide_border=true" alt="Top Languages" height="170" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pavand0515&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" alt="Pavan's GitHub statistics" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pavand0515&layout=compact&langs_count=8&hide_border=true" alt="Pavan's top languages" height="180" />
 </p>
 
-<p>
-  <img src="https://streak-stats.demolab.com?user=Pavand0515&hide_border=true" alt="GitHub Streak" />
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Pavand0515&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Pavan's GitHub contribution streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pavand0515&hide_border=true&area=true" alt="Pavan's GitHub activity graph" />
 </p>
 
 ---
