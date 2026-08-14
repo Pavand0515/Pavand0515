@@ -18,19 +18,19 @@ My work focuses on **Machine Learning, Deep Learning, NLP, Computer Vision, Reco
 
 ## 🚀 What I Build
 
-- 🤖 Applied AI & Machine Learning systems
-- 🧠 Deep Learning models
-- 👁️ Computer Vision applications
-- 💬 NLP and intelligent text systems
-- 🎬 Recommendation engines
-- 🌾 AI-powered agriculture solutions
-- ⚙️ Python + FastAPI + React applications
+-  Applied AI & Machine Learning systems
+-  Deep Learning models
+-  Computer Vision applications
+-  NLP and intelligent text systems
+-  Recommendation engines
+-  AI-powered agriculture solutions
+-  Python + FastAPI + React applications
 
 ---
 
 ## ⭐ Featured Work
 
-### 🌾 AgriIntel — Agriculture AI System
+###  AgriIntel — Agriculture AI System
 **React · FastAPI · TensorFlow**
 
 An agriculture assistant combining plant disease detection, crop recommendations, fertilizer guidance, and market forecasting.
@@ -44,14 +44,14 @@ A content-based system that recommends similar movies from movie metadata.
 
 [View project →](https://github.com/Pavand0515/Movie-Recommender-System)
 
-### 🗣️ Telugu Character Recognition
+###  Telugu Character Recognition
 **Deep Learning · Computer Vision**
 
 A character-recognition project focused on Telugu script using deep-learning techniques.
 
 [View project →](https://github.com/Pavand0515/Telugu_Character_Recognition)
 
-### 🧪 Machine Learning Projects
+###  Machine Learning Projects
 A collection of practical ML experiments covering regression and data-driven workflows.
 
 [View collection →](https://github.com/Pavand0515/Machine_learning_Projects)
