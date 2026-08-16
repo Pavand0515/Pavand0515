@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Pavan D. Kalyan
+# 👋 Hi, I'm Pavan Kalyan Dokala
 
 ### AI / Machine Learning Developer | Python | Deep Learning | NLP | Computer Vision
 
